@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "build": 1168,
-  "versionCode": 1168,
+  "build": 1179,
+  "versionCode": 1179,
   "versionName": "1.0.0",
   "release_date": "2026-10-12",
-  "download_url": "https://github.com/salahotaify89/Terminal-Professional-Updates/releases/download/build-1168/owner-release.apk",
-  "changelog": "Owner build 1168 (1.0.0)",
+  "download_url": "https://github.com/salahotaify89/Terminal-Professional-Updates/releases/download/build-1179/owner-release.apk",
+  "changelog": "Owner build 1179 (1.0.0)",
   "min_version": "1.0.0",
   "critical": false,
-  "sha256": "b94c090b2f15a4b9ec18fbd3e20c9f9042ea5ecc379e7cca985ef75e262e6794",
+  "sha256": "8b28c482162ce01647312f718e8ecc124026eeb4d3bf42c28620c7561095b4a4",
   "apks": {
-    "owner-release.apk": "b94c090b2f15a4b9ec18fbd3e20c9f9042ea5ecc379e7cca985ef75e262e6794"
+    "owner-release.apk": "8b28c482162ce01647312f718e8ecc124026eeb4d3bf42c28620c7561095b4a4"
   }
 }
